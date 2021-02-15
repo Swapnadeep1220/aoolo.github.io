@@ -1,0 +1,49 @@
+body {
+  background-color: RGB(169,169,169);
+}
+.top {
+  height: 240px;
+}
+.logoo {
+  height: 230px;
+  margin-left: 5px;
+  margin-top: px;
+}
+.header {
+  position: relative;
+  left: 265px;
+  font-size: 26px;
+  width: 690px;
+  bottom: 180px;
+  font-family: Monospace;
+  color: white;
+}
+.line {
+  position: relative;
+  bottom: 130px;
+  border: solid;
+  margin: 0px;
+  padding: 0px;
+  border-color: white;
+}
+.buttonc{
+  text-decoration:none;
+  background-color:white;
+  font-size:90px;
+  position:relative;
+  left:193px;
+  font-family:monospace;
+  padding:45px;
+  letter-spacing:15px;
+  border:solid white;
+  border-radius:30px;
+}
+.thead{
+  text-align:center;
+  color:white;
+  font-family:monospace;
+  font-size:70px;
+  margin:30px;
+  position:relative;
+  bottom:60px;
+}

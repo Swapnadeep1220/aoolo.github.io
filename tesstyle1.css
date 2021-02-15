@@ -1,0 +1,62 @@
+body {
+  background-color: RGB(169,169,169);
+}
+.top {
+  height: 240px;
+}
+.logoo {
+  height: 230px;
+  margin-left: 5px;
+  margin-top: px;
+}
+.header {
+  position: relative;
+  left: 265px;
+  font-size: 26px;
+  width: 690px;
+  bottom: 180px;
+  font-family: Monospace;
+  color: white;
+}
+.line {
+  position: relative;
+  bottom: 130px;
+  border: solid;
+  margin: 0px;
+  padding: 0px;
+  border-color: white;
+}
+.thead{
+  text-align:center;
+  color:white;
+  font-family:monospace;
+  font-size:70px;
+}
+.tables{
+  font-size:80px;
+  border:solid 9px;
+  padding:30px;
+  color:white;
+  font-family:Monospace;
+  border-radius:45px;
+}
+.buttonv{
+ text-decoration:none;
+ color:grey;
+ background-color:white;
+ font-family:monospace;
+ border:solid white;
+ border-radius:15px;
+ padding:39px;
+ font-size:40px;
+ position:relative;
+ top:80px;
+ left:80px;
+ margin:60px
+ 
+}
+.copy{
+  text-align:center;
+  position:relative;
+  top:201px;
+}
